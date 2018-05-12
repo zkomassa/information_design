@@ -8,6 +8,7 @@ bitarray==0.8.1
 configparser==3.5.0
 ephem==3.7.5.3
 futures==3.1.1
+gevent==1.2.2
 glob2==0.5
 html5lib==0.999999999
 imageio==2.2.0
