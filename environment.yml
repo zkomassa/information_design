@@ -6,4 +6,4 @@ dependencies:
   - pip
   - astropy
   - widgetsnbextension
-  - Ipython.display
+  - Ipython
