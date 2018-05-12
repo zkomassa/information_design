@@ -7,4 +7,3 @@ dependencies:
   - astropy
   - widgetsnbextension
   - Ipython
-  - plot2.py
